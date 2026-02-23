@@ -89,5 +89,5 @@ Interesado en:
 
 ## 📫 Contacto
 
-LinkedIn: linkedin.com/in/hector-emanuel-diaz-ochoa  
+LinkedIn: (https://www.linkedin.com/in/hector-emanuel-diaz-ochoa/) 
 Portfolio: (https://hectoremanueldiazochoadev.netlify.app/)
