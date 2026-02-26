@@ -52,11 +52,11 @@ Otros:
 
 ### ReMoney — Desarrollador Frontend
 - Interfaces responsivas
-- React + Tailwind + Astro
+- React + Tailwind 
 - Trabajo bajo metodología ágil
 
 ### Freelance Frontend & Mobile
-- Desarrollo web y mobile
+- Desarrollo web y mobile 
 - UX/UI
 - Control de versiones con Git
 
